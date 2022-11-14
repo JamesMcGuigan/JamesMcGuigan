@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=JamesMcGuigan" 
      alt="Profile Views" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMcGuigan&layout=compact&hide=Jupyter+Notebook,html,css,rich+text+format&langs_count=20" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMcGuigan&layout=compact&hide=Jupyter+Notebook,html,css,rich+text+format&langs_count=200" 
      alt="Top Languages"  />
 
 <img src="https://github-readme-stats.vercel.app/api?username=JamesMcGuigan&show_icons=true&border_radius=4"  
